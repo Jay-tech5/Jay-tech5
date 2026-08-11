@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Jay Dixit
 
-🎓 BCA Student at IILM University
+🎓 BCA graduate at IILM University
 💻 Aspiring Software Developer
 🚀 Tech Enthusiast
 
