@@ -20,7 +20,7 @@
 
 ### Languages
 
-`Java` `SQL` `HTML` `CSS` `JavaScript`
+`Python` `SQL` `HTML` `CSS` `JavaScript`
 
 ### Databases
 
