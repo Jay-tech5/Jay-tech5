@@ -12,7 +12,7 @@ Interested in **Data Engineering, Python, SQL, Databases & Cloud**.
 
 **Cloud:** AWS
 
-**Programming:** Java · JavaScript · HTML · CSS
+**Programming:** Python· JavaScript · HTML · CSS
 
 **Tools:** Git · GitHub · VS Code
 
