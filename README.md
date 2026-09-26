@@ -1,33 +1,61 @@
 # Hi, I'm Jay Dixit 👋
 
-🎓 BCA Graduate | 💻 Aspiring Data Engineer
+💻 **BCA Graduate | Web Developer**
 
-Interested in **Data Engineering, Python, SQL, Databases & Cloud**.
+I like building websites and web apps using simple and useful tools.
+
+---
 
 ## 🛠️ Skills
 
-**Data Engineering:** Python · SQL · ETL · Data Pipelines · Pandas · NumPy
+**Frontend**  
+HTML · CSS · JavaScript · Bootstrap · React.js
 
-**Databases:** MySQL · MongoDB
+**Backend**  
+Node.js · Express.js · REST API
 
-**Cloud:** AWS
+**Database**  
+MySQL · MongoDB · SQL
 
-**Programming:** Python· JavaScript · HTML · CSS
+**Tools**  
+Git · GitHub · VS Code · Postman
 
-**Tools:** Git · GitHub · VS Code
+**Cloud**  
+AWS
+
+---
 
 ## 🚀 Projects
 
-- 📊 **Nike Sales Dashboard** — Python, Pandas, Dash & Plotly
-- 💰 **Expense Tracker** — Python & SQL
-- 🗃️ **Sales Data Pipeline** — Python, SQL & ETL
-- 📈 **Data Analysis Project** — Python, Pandas & NumPy
-- 🎓 **Student Management System** — Java & MySQL
+🌐 **Personal Portfolio**  
+My personal website made with HTML, CSS and JavaScript.
+
+💰 **Expense Tracker**  
+A web app to add and manage daily expenses.
+
+🍔 **Food Order System**  
+A website for viewing food and placing orders.
+
+🛒 **E-Commerce Website**  
+A simple online shopping website with products and cart.
+
+📋 **Task Manager**  
+A web app to add, update and manage daily tasks.
+
+---
 
 ## 📚 Currently Learning
 
-Python · SQL · ETL · Data Pipelines · AWS
+React.js · Node.js · Express.js · SQL · AWS
+
+---
 
 ## 🎯 Goal
 
-Become a **Data Engineer** and build efficient, reliable data pipelines.
+To become a **Web Developer** and build useful websites and web apps.
+
+---
+
+## 📫 Connect With Me
+
+GitHub · LinkedIn · Email
