@@ -1,40 +1,23 @@
-# Hi, I'm Jay Dixit 👋
+Hey there! 👋
 
-💻 **BCA Graduate | Web Developer**
+I’m Jay Dixit, a Full Stack Engineer based in India.
 
-I like building websites and web apps using simple and useful tools.
+I design and build websites and applications that turn ideas into reality.
 
----
+If an idea pops into my head, chances are I’ll build it and ship it.
 
-## 🛠️ Skills
+My main tech stack is JavaScript, React, Node.js, Express, MongoDB, and Tailwind CSS. My favorite tools are VS Code, GitHub, Figma, and coffee. ☕
 
-**Frontend**  
-HTML · CSS · JavaScript · Bootstrap · React.js
+I’ve got a bunch of projects pinned, but my favorite is my latest full-stack project.
 
-**Backend**  
-Node.js · Express.js · REST API
+I’ve built several projects and I’m always working on something new.
 
-**Database**  
-MySQL · MongoDB · SQL
+If you want to know how I do it, my projects and code are available here!
 
-**Tools**  
-Git · GitHub · VS Code · Postman
+Fun Facts:
 
-**Cloud**  
-AWS
-
----
-
-## 📚 Currently Learning
-
-React.js · Node.js · Express.js · SQL · AWS
-
----
-
-## 🎯 Goal
-
-To become a **Web Developer** and build useful websites and web apps.
-
----
-
-
+- I love coffee ☕
+- I don’t like tea 🚫🍵
+- I enjoy building full-stack projects 💻
+- I’m always learning new technologies 🚀
+- Hobbies: coding, anime, gaming, and building things
