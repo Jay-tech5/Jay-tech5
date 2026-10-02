@@ -17,7 +17,6 @@ If you want to know how I do it, my projects and code are available here!
 Fun Facts:
 
 - I love coffee ☕
-- I don’t like tea 🚫🍵
 - I enjoy building full-stack projects 💻
 - I’m always learning new technologies 🚀
 - Hobbies: coding, anime, gaming, and building things
