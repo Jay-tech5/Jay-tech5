@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I’m Jay Dixit, a Full Stack Engineer based in India.
+I’m Jay Dixit
 
 I design and build websites and applications that turn ideas into reality.
 
